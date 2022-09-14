@@ -18,7 +18,7 @@ I'm [Sadik Saifi](https://github.com/sadikeey) who is 21-year-old studying [Bach
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![stats](https://github-readme-stats.vercel.app/api?username=sadikeey&theme=gotham&show_icons=true&border_color=2e3440)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gictorbit&layout=compact&exclude_repo=Gictorbit.github.io&theme=gotham&border_color=2e3440&card_width=250)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadikeey&layout=compact&exclude_repo=sadikeey.github.io&theme=gotham&border_color=2e3440&card_width=250)
 
 
 ### 📫 &nbsp;Connect with Me
