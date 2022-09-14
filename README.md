@@ -4,7 +4,7 @@
 I'm [Sadik Saifi](https://github.com/sadikeey) who is 21-year-old studying [Bachelor of Computer Applications](https://www.shiksha.com/it-software/articles/all-you-need-to-know-about-bca-and-its-scope-blogId-13258) at [Graphic Era University](https://www.geu.ac.in/) in [Dehradun](https://en.wikipedia.org/wiki/Dehradun). I'm quite enthusiastic about programming and a curious person about new technologies and ideas. I am always open to collabrate on projects and new innovative/disruptive ideas.
 
 ### 🛠 &nbsp;Tech Stack
-![Arch linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=flat&logo=arch-linux)&nbsp;
+![Arch linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/-java-141a20?style=flat&logo=java&logoColor=FFA518)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python)&nbsp;
 ![shell](https://img.shields.io/badge/-Bash_Script-141a20?style=flat&logo=powershell)&nbsp;
@@ -22,7 +22,8 @@ I'm [Sadik Saifi](https://github.com/sadikeey) who is 21-year-old studying [Bach
 
 
 ### 📫 &nbsp;Connect with Me
-[![gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:sadiksaifi205@gmail.com)
-[![telegram](https://img.shields.io/badge/-@sadikeey-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/sadikeey)
-[![Instagram](https://img.shields.io/badge/-@sadikeey-E1306C?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/sadikeey/)
-[![Twitter](https://img.shields.io/badge/-@sadikeey-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/sadikeey/)
+[![gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sadiksaifi205@gmail.com)
+[![telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://t.me/sadikeey)
+[![Instagram](https://img.shields.io/badge/-INSTAGRAM-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/sadikeey/)
+[![Twitter](https://img.shields.io/badge/-TWITTER-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/sadikeey/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadiksaifi)
