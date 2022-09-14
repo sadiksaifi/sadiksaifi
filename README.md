@@ -10,19 +10,20 @@ I'm [Sadik Saifi](https://github.com/sadikeey) who is 21-year-old studying [Bach
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)&nbsp;\
+
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)&nbsp;
+![NodeJs](https://img.shields.io/badge/Node.Js-43853D?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/Express.Js-404D59?style=flat&logo=express)&nbsp;
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)&nbsp;
-![ReactJS](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![ReactJS](https://img.shields.io/badge/React.JS-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;\
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python)&nbsp;
-![shell](https://img.shields.io/badge/-Bash_Script-141a20?style=flat&logo=powershell)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-141a20?style=flat&logo=docker)&nbsp;
-![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;\
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-141a20?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![vim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)&nbsp;
+![shell](https://img.shields.io/badge/-Bash_Script-blue?style=flat&logo=powershell&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)&nbsp;
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
