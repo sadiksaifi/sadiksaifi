@@ -6,6 +6,7 @@ I'm [Sadik Saifi](https://github.com/sadikeey) who is 21-year-old studying [Bach
 ### 🛠 &nbsp;Tech Stack
 ![Arch linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=flat&logo=arch-linux)&nbsp;
 ![Java](https://img.shields.io/badge/-java-141a20?style=flat&logo=java&logoColor=FFA518)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python)&nbsp;
 ![shell](https://img.shields.io/badge/-Bash_Script-141a20?style=flat&logo=powershell)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-141a20?style=flat&logo=docker)&nbsp;
