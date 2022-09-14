@@ -4,8 +4,8 @@
 I'm [Sadik Saifi](https://github.com/sadikeey) who is 21-year-old studying [Bachelor of Computer Applications](https://www.shiksha.com/it-software/articles/all-you-need-to-know-about-bca-and-its-scope-blogId-13258) at [Graphic Era University](https://www.geu.ac.in/) in [Dehradun](https://en.wikipedia.org/wiki/Dehradun). I'm quite enthusiastic about programming and a curious person about new technologies and ideas. I am always open to collabrate on projects and new innovative/disruptive ideas.
 
 ### 🛠 &nbsp;Tech Stack
-![Arch linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/-java-141a20?style=flat&logo=java&logoColor=FFA518)&nbsp;
+![Arch linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo&logo=arch-linux&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/-Java-141a20?style=flat&logo=java&logoColor=FFA518)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python)&nbsp;
 ![shell](https://img.shields.io/badge/-Bash_Script-141a20?style=flat&logo=powershell)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-141a20?style=flat&logo=docker)&nbsp;
