@@ -22,7 +22,7 @@ I'm [Sadik Saifi](https://github.com/sadikeey) who is 21-year-old studying [Bach
 
 
 ### 📫 &nbsp;Connect with Me
-[![gmail](https://img.shields.io/badge/-sadiksaifi205@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sadiksaifi205@gmail.com)
+[![gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sadiksaifi205@gmail.com)
 [![telegram](https://img.shields.io/badge/-@sadikeey-0e3e55?style=flat&logo=Telegram&logoColor=white)](https://t.me/sadikeey)
 [![Instagram](https://img.shields.io/badge/-@sadikeey-0e3e55?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/sadikeey/)
 [![Twitter](https://img.shields.io/badge/-@sadikeey-0e3e55?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/sadikeey/)
