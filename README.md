@@ -26,4 +26,4 @@ I'm [Sadik Saifi](https://github.com/sadikeey) who is 21-year-old studying [Bach
 [![telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://t.me/sadikeey)
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/sadikeey/)
 [![Twitter](https://img.shields.io/badge/-TWITTER-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/sadikeey/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadiksaifi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadiksaifi)
