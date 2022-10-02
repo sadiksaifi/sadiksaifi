@@ -19,8 +19,8 @@ I'm <b>[Sadik Saifi](https://github.com/sadikeey)</b> who is 21-year-old studyin
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)&nbsp;
 ![ReactJS](https://img.shields.io/badge/React.JS-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 ![Java](https://img.shields.io/badge/Java-f80000?style=flat&logo=oracle&logoColor=white)&nbsp;
-![shell](https://img.shields.io/badge/-Bash_Script-blue?style=flat&logo=powershell&logoColor=white)&nbsp;\
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)&nbsp;
+![shell](https://img.shields.io/badge/-Bash_Script-blue?style=flat&logo=powershell&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)&nbsp;\
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)&nbsp;
 ![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=flat&logo=alacritty&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
