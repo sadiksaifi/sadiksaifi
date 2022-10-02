@@ -2,7 +2,7 @@
 
 ### 😀 About me
 
-I'm [Sadik Saifi](https://github.com/sadikeey) who is 21-year-old studying [Bachelor of Computer Applications](https://www.shiksha.com/it-software/articles/all-you-need-to-know-about-bca-and-its-scope-blogId-13258) at [Graphic Era University](https://www.geu.ac.in/) in [Dehradun](https://en.wikipedia.org/wiki/Dehradun). I'm quite enthusiastic about programming and a curious person about new technologies and ideas. I am always open to collabrate on projects and new innovative/disruptive ideas.
+I'm <b>[Sadik Saifi](https://github.com/sadikeey)</b> who is 21-year-old studying [Bachelor of Computer Applications](https://www.shiksha.com/it-software/articles/all-you-need-to-know-about-bca-and-its-scope-blogId-13258) at [Graphic Era University](https://www.geu.ac.in/) in [Dehradun](https://en.wikipedia.org/wiki/Dehradun). I'm quite enthusiastic about programming and a curious person about new technologies and ideas. I am always open to collabrate on projects and new innovative/disruptive ideas.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -22,6 +22,7 @@ I'm [Sadik Saifi](https://github.com/sadikeey) who is 21-year-old studying [Bach
 ![shell](https://img.shields.io/badge/-Bash_Script-blue?style=flat&logo=powershell&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)&nbsp;
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)&nbsp;
+![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=flat&logo=alacritty&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
