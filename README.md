@@ -19,8 +19,8 @@ I'm <b>[Sadik Saifi](https://github.com/sadikeey)</b> who is 21-year-old studyin
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)&nbsp;
 ![shell](https://img.shields.io/badge/-Bash_Script-blue?style=flat&logo=powershell&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-f80000?style=flat&logo=oracle&logoColor=white)&nbsp;
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)&nbsp;
-![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=flat&logo=alacritty&logoColor=white)&nbsp;
+![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=flat&logo=gnu-emacs&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
