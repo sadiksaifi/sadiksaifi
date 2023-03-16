@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-A skilled Web Developer creating stunning, user-friendly websites and web applications with expertise of web technologies, various programming languages and frameworks.
+Im a skilled Web Developer creating stunning, user-friendly websites and web applications with expertise of web technologies, various programming languages and frameworks.
 
 ### 🛠 &nbsp;Tech Stack
 
