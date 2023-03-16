@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-I'm <b>[Sadik Saifi](https://github.com/sadikeey)</b> who is 21-year-old studying [Bachelor of Computer Applications](https://www.shiksha.com/it-software/articles/all-you-need-to-know-about-bca-and-its-scope-blogId-13258) at [Graphic Era University](https://www.geu.ac.in/) in [Dehradun](https://en.wikipedia.org/wiki/Dehradun). I'm quite enthusiastic about programming and a curious person about new technologies and ideas. I am always open to collabrate on projects and new innovative/disruptive ideas.
+A skilled Web Developer creating stunning, user-friendly websites and web applications with expertise of web technologies, various programming languages and frameworks.
 
 ### 🛠 &nbsp;Tech Stack
 
