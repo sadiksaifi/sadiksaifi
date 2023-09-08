@@ -34,13 +34,13 @@ I am Sadik Saifi a full-stack **`Web Developer`** creating stunning, user-friend
 
 #### 📊 GitHub Analytics
 
-[![stats](https://github-readme-stats.vercel.app/api?username=sadikeey&theme=gotham&show_icons=true&border_color=2e3440)](https://github.com/sadikeey)
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadikeey&layout=compact&exclude_repo=sadikeey.github.io&theme=gotham&border_color=2e3440&card_width=250)](https://github.com/sadikeey)
+[![stats](https://github-readme-stats.vercel.app/api?username=sadiksaifi&theme=gotham&show_icons=true&border_color=2e3440)](https://github.com/sadiksaifi)
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiksaifi&layout=compact&exclude_repo=sadiksaifi.github.io&theme=gotham&border_color=2e3440&card_width=250)](https://github.com/sadiksaifi)
 
 #### 📱 Connect with Me
 
 [![Website](https://img.shields.io/badge/sadiksaifi.dev-000000?style=flat&logo=WebStorm&logoColor=white)](https://www.sadiksaifi.dev)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sadiksaifi205@gmail.com)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thesadiksaifi@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/thesadiksaifi/)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/sadikeey)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadikeey)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/sadiksaifi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadiksaifi)
